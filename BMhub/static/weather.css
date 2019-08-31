@@ -1,0 +1,11 @@
+body {
+	background-color: Purple;	
+	cursor: default;
+		pointer-events: none;
+}
+.weatherwidget-io: read-only {
+	background-color: white;
+	cursor: default;
+	pointer-events: none;
+	
+}

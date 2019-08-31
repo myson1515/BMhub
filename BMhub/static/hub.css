@@ -1,0 +1,14 @@
+body {
+	background-color: purple;
+}
+
+.hubbutton {
+	background-color: purple;
+	padding: 15px 32px;
+	color: white;
+	display: block;
+	margin-left: 50;
+	margin-right: 50;
+	width: 50%;
+	font-size:30px;
+}

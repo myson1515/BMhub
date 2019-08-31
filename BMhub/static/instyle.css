@@ -1,0 +1,24 @@
+body {
+	background: purple;	
+}
+button {
+	border: none;
+	background-color: purple;
+	color: white;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	font-size:75px;
+}
+.button {
+	background-color: white; 
+	color: black;
+	font-size: 20px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
